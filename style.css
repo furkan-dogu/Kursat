@@ -1,0 +1,47 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+
+
+.heading {
+  text-align: center;
+  font-family: "Lobster", cursive;
+  font-size: 50px;
+  color: peru;
+}
+
+
+.kürşat-img img {
+  width: 300px;
+  border-radius: 20px;
+  background-size: cover;
+}
+
+.kürşat-img {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  font-family: 'Indie Flower', cursive;
+  text-transform: uppercase;
+}
+
+.icon {
+  font-size: 50px;
+}
+
+.icon a {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  margin: 0px 25px;
+  color: purple;
+}
+
